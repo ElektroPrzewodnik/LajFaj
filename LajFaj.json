@@ -10,7 +10,7 @@
 				{
 				    "category":"ESP8266",
 					"name":"ElektroPrzewodnik_LajFaj",
-					"url":"http://tgrabowski.pl/LajFaj/LajFaj.zip",
+					"url":"https://github.com/ElektroPrzewodnik/LajFaj/raw/gh-pages/LajFaj.zip",
 					"checksum":"SHA-256:6CEC6CDEF5D5CBD18D5A1AB700BF7442492FB622AF3AE08253FB3E09877DCDE3",
 					"help":{ "online":"http://github.com/ElektroPrzewodnik/LajFaj" },
 					"version":"1.16.10",
