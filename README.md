@@ -39,3 +39,10 @@ http://tgrabowski.pl/LajFaj/package_LajFaj_index.json</li>
 <li>Od tej pory płytka ŁajFaj będzie już dostępna z Menu: Narzędzia -> Płytka</li>
 <li>Przykładowy program znajdziesz w Plik -> Przykłady -> ElektroPrzewodnik ŁajFaj -> blink</li>
 </ol>
+
+# Dokumentacja
+Sczegółowy opis dostępnych funkcji można znaleźć pod adresem:
+https://github.com/esp8266/Arduino#documentation
+
+Należy posługiwać się oznaczeniami pinów opisanymi na płytce tj D0, D1, D2 itd.
+Przykładowa funkcja: <i>digitalWrite(D1, HIGH);</i>
