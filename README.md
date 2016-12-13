@@ -36,6 +36,6 @@
 http://tgrabowski.pl/LajFaj/package_LajFaj_index.json</li>
 <li>Wybierz Narzędzia -> Płytka -> Menadżer płytek</li>
 <li>Zainstaluj moduł ElektroPrzewodnik ŁajFaj (prawdopodobnie na dole listy)</li>
-<li>Od tej pory płytka ElektroPrzewodnik będzie już dostępna z Menu: Narzędzia -> Płytka</li>
+<li>Od tej pory płytka ŁajFaj będzie już dostępna z Menu: Narzędzia -> Płytka</li>
 <li>Przykładowy program znajdziesz w Plik -> Przykłady -> ElektroPrzewodnik ŁajFaj -> blink</li>
 </ol>
