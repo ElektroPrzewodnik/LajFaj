@@ -33,7 +33,7 @@
 <li>Pobierz i zainstaluj środowisko Arduino IDE ze strony: www.arduino.cc</li>
 <li>Uruchom Arduino IDE, wybierz Plik -> Preferencje</li>
 <li>W miejscu Dodatkowe adresy URL dla menadżera płytek podaj:
-http://tgrabowski.pl/LajFaj/package_LajFaj_index.json</li>
+https://raw.githubusercontent.com/ElektroPrzewodnik/LajFaj/gh-pages/package_LajFaj_index.json</li>
 <li>Wybierz Narzędzia -> Płytka -> Menadżer płytek</li>
 <li>Zainstaluj moduł ElektroPrzewodnik ŁajFaj (prawdopodobnie na dole listy)</li>
 <li>Od tej pory płytka ŁajFaj będzie już dostępna z Menu: Narzędzia -> Płytka</li>
