@@ -2,19 +2,23 @@
 <br />
 
 # Specyfikacja
+
 <ul>
-<li>ESP-WROOM-02</li>
+<li>ESP-WROOM-02
+
 <ul>
 <li>32 bitowy mikrokontroler oparty na chipie ESP8266</li>
 <li>Taktowanie: 160 MHz</li>
 <li>Pamięć Flash 4 MB</li>
-</ul>
-<li>Zasilanie</li>
+</ul></li>
+
+<li>Zasilanie
 <ul>
 <li>Li-pol - 3,7 V</li>
 <li>Gniazdo microUSB - 5 V</li>
 <li>Gniazdo DC jack / uchwyty na krokodylki – od 3 V do 18 V</li>
-</ul>
+</ul></li>
+
 <li>Standard WiFi 802.11 b/g/n (2,4 GHz)</li>
 <li>Napięcie pracy wyprowadzeń: 3,3 V</li>
 <li>Ilość pinów GPIO: 12</li>
