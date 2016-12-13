@@ -28,7 +28,7 @@
 <li>Wbudony czytnik kart pamięci microSD / microSDHC</li>
 <li>Wbudowany programator</li>
 <li>Gniazdo akumulatora JST 2,0 mm</li>
-<li>Przycisk rest</li>
+<li>Przycisk reset</li>
 <li>Wymiary: 103x54x13 mm</li>
 </ul>
 
