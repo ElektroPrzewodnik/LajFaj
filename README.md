@@ -41,8 +41,8 @@ http://tgrabowski.pl/LajFaj/package_LajFaj_index.json</li>
 </ol>
 
 # Dokumentacja
-Sczegółowy opis dostępnych funkcji można znaleźć pod adresem:
+Sczegółowy opis dostępnych funkcji można znaleźć pod adresem:<br />
 https://github.com/esp8266/Arduino#documentation
-
-Należy posługiwać się oznaczeniami pinów opisanymi na płytce tj D0, D1, D2 itd.
+<br /><br >
+Należy posługiwać się oznaczeniami pinów opisanymi na płytce tj. D0, D1, D2 itd.<br />
 Przykładowa funkcja: <i>digitalWrite(D1, HIGH);</i>
