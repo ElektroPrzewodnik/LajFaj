@@ -11,9 +11,9 @@
 				    "category":"ESP8266",
 					"name":"ElektroPrzewodnik ŁajFaj",
 					"url":"https://github.com/ElektroPrzewodnik/LajFaj/raw/gh-pages/LajFaj.zip",
-					"checksum":"SHA-256:025dd04a50616af07ac23de07927f609294caecde3f9194d32851ae44317635b",
+					"checksum":"SHA-256:052A22495021E132E86ED51129B68C20CED631E84CEBF128983E29F313FE8E6A",
 					"help":{ "online":"http://github.com/ElektroPrzewodnik/LajFaj" },
-					"version":"1.0.1",
+					"version":"16.12.14",
 					"architecture":"ElektroPrzewodnik_LajFaj",
 					"archiveFileName":"LajFaj.zip",
 					"boards":
