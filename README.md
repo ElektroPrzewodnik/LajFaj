@@ -8,7 +8,7 @@
 
 <ul>
 <li>32 bitowy mikrokontroler oparty na chipie ESP8266</li>
-<li>Taktowanie: 160 MHz</li>
+<li>Taktowanie: 80 MHz / 160 MHz</li>
 <li>Pamięć Flash 4 MB</li>
 </ul></li>
 
@@ -16,7 +16,7 @@
 <ul>
 <li>Li-pol - 3,7 V</li>
 <li>Gniazdo microUSB - 5 V</li>
-<li>Gniazdo DC jack / uchwyty na krokodylki – od 3 V do 18 V</li>
+<li>Gniazdo DC jack (2,1/5,5 mm) / uchwyty na krokodylki – od 5 V do 18 V</li>
 </ul></li>
 
 <li>Standard WiFi 802.11 b/g/n (2,4 GHz)</li>
@@ -24,12 +24,17 @@
 <li>Ilość pinów GPIO: 12</li>
 <li>Interfejsy I2C, SPI, UART</li>
 <li>8 multipleksowanych wejść analogowych (0 – 1 V)</li>
-<li>Wbudowany moduł ładujący lipol</li>
+<li>Wbudowany moduł ładujący lipol (150 mA)</li>
 <li>Wbudony czytnik kart pamięci microSD / microSDHC</li>
-<li>Wbudowany programator</li>
+<li>Wbudowany programator (oparty na chipie FTDI)</li>
 <li>Gniazdo akumulatora JST 2,0 mm</li>
 <li>Przycisk reset</li>
-<li>Wymiary: 103x54x13 mm</li>
+<li>Dioda LED sterowana z GPIO (D11)</li>
+<li>Diody LED sygnalizujące transmisję z PC</li>
+<li>Dioda LED sygnalizująca ładowanie akumulatora</li>
+<li>Wbudowana przetwornica 3,3V o wydajności 2,5 A</li>
+<li>3 otwory montażowe (średnia 3 mm)</li>
+<li>Wymiary: 101,60 x 53,35 mm</li>
 </ul>
 
 # Instrukcja instalacji
