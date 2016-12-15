@@ -25,7 +25,7 @@
 <li>Interfejsy I2C, SPI, UART</li>
 <li>8 multipleksowanych wejść analogowych (0 – 1 V)</li>
 <li>Wbudowany moduł ładujący lipol (150 mA)</li>
-<li>Wbudony czytnik kart pamięci microSD / microSDHC</li>
+<li>Wbudowany czytnik kart pamięci microSD / microSDHC</li>
 <li>Wbudowany programator (oparty na chipie FTDI)</li>
 <li>Gniazdo akumulatora JST 2,0 mm</li>
 <li>Przycisk reset</li>
