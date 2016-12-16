@@ -14,7 +14,7 @@
 
 <li>Zasilanie
 <ul>
-<li>Li-pol - 3,7 V</li>
+<li>Li-ion / Li-pol - 3,7 V</li>
 <li>Gniazdo microUSB - 5 V</li>
 <li>Gniazdo DC jack (2,1/5,5 mm) / uchwyty na krokodylki – od 5 V do 18 V</li>
 </ul></li>
@@ -24,7 +24,7 @@
 <li>Ilość pinów GPIO: 12</li>
 <li>Interfejsy I2C, SPI, UART</li>
 <li>8 multipleksowanych wejść analogowych (0 – 1 V)</li>
-<li>Wbudowany moduł ładujący lipol (150 mA)</li>
+<li>Wbudowany moduł ładujący Li-ion / Li-pol (150 mA)</li>
 <li>Wbudowany czytnik kart pamięci microSD / microSDHC</li>
 <li>Wbudowany programator (oparty na chipie FTDI)</li>
 <li>Gniazdo akumulatora JST 2,0 mm</li>
