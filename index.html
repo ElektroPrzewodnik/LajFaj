@@ -1,97 +1,105 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-    <title>ElektroPrzewodnik ŁajFaj</title>
-  </head>
+	<head>
+		<meta charset='utf-8'>
+		<meta http-equiv="X-UA-Compatible" content="chrome=1">
+		<link href='https://fonts.googleapis.com/css?family=Chivo:900' rel='stylesheet' type='text/css'>
+		<link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/github-dark.css" media="screen">
+		<link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print">
+		<!--[if lt IE 9]>
+		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+		<title>ElektroPrzewodnik ŁajFaj</title>
+	</head>
 
-  <body>
-    <div id="container">
-      <div class="inner">
+	<body>
+		<div id="container">
+			<div class="inner">
 
-        <header>
-          <h1>ŁajFaj</h1>
-          <h2>Platforma prototypowa oparta o układ ESP8266</h2>
-        </header>
+				<header>
+					<h1>ŁajFaj</h1>
+					<h2>Platforma prototypowa oparta o układ ESP8266</h2>
+				</header>
 
-        <section id="downloads" class="clearfix">
-          <a href="https://github.com/ElektroPrzewodnik/LajFaj/zipball/master" id="download-zip" class="button"><span>Pobierz .zip</span></a>
-          <a href="https://github.com/ElektroPrzewodnik/LajFaj/tarball/master" id="download-tar-gz" class="button"><span>Pobierz .tar.gz</span></a>
-          <a href="https://github.com/ElektroPrzewodnik/LajFaj" id="view-on-github" class="button"><span>Pokaż na GitHub</span></a>
-        </section>
+				<section id="downloads" class="clearfix">
+					<a href="https://github.com/ElektroPrzewodnik/LajFaj/zipball/master" id="download-zip" class="button"><span>Pobierz .zip</span></a>
+					<a href="https://github.com/ElektroPrzewodnik/LajFaj/tarball/master" id="download-tar-gz" class="button"><span>Pobierz .tar.gz</span></a>
+					<a href="https://github.com/ElektroPrzewodnik/LajFaj" id="view-on-github" class="button"><span>Pokaż na GitHub</span></a>
+				</section>
 
-        <hr>
+				<hr>
 
-        <section id="main_content">
-          <img src="https://raw.githubusercontent.com/ElektroPrzewodnik/LajFaj/gh-pages/intro.png" alt="" />
-          <h3>
-          <a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Specyfikacja</h3>
+				<section id="main_content">
+					<img src="https://raw.githubusercontent.com/ElektroPrzewodnik/LajFaj/gh-pages/intro.png" alt="" />
+					<h3>
+					<a id="designer-templates" class="anchor" href="#designer-templates" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Specyfikacja</h3>
 
-          <ul style="padding-left: 20px">
-            <li><strong>ESP-WROOM-02</strong>
+					<ul style="padding-left: 20px">
+						<li><strong>ESP-WROOM-02</strong>
 
-            <ul>
-              <li>32 bitowy mikrokontroler oparty na chipie ESP8266</li>
-              <li>Taktowanie: 80 MHz / 160 MHz</li>
-              <li>Pamięć Flash 4 MB</li>
-            </ul></li>
+						<ul>
+							<li>32 bitowy mikrokontroler oparty na chipie ESP8266</li>
+							<li>Taktowanie: 80 MHz / 160 MHz</li>
+							<li>Pamięć Flash 4 MB</li>
+						</ul></li>
 
-            <li><strong>Zasilanie</strong>
-            <ul>
-              <li>Li-ion / Li-pol - 3,7 V</li>
-              <li>Gniazdo microUSB - 5 V</li>
-              <li>Gniazdo DC jack (2,1/5,5 mm) / uchwyty na krokodylki – od 5 V do 18 V</li>
-            </ul></li>
+						<li><strong>Zasilanie</strong>
+						<ul>
+							<li>Li-ion / Li-pol - 3,7 V</li>
+							<li>Gniazdo microUSB - 5 V</li>
+							<li>Gniazdo DC jack (2,1/5,5 mm) / uchwyty na krokodylki – od 5 V do 18 V</li>
+						</ul></li>
 
-            <li><strong>Standard WiFi 802.11 b/g/n (2,4 GHz)</strong></li>
-            <li><strong>Napięcie pracy wyprowadzeń: 3,3 V</strong></li>
-            <li><strong>Ilość pinów GPIO: 12</strong></li>
-            <li><strong>Interfejsy I2C, SPI, UART</strong></li>
-            <li><strong>8 multipleksowanych wejść analogowych (0 – 1 V)</strong></li>
-            <li><strong>Wbudowany moduł ładujący Li-ion / Li-pol (150 mA)</strong></li>
-            <li><strong>Wbudowany czytnik kart pamięci microSD / microSDHC</strong></li>
-            <li><strong>Wbudowany programator (oparty na chipie FTDI)</strong></li>
-            <li><strong>Gniazdo akumulatora JST 2,0 mm</strong></li>
-            <li><strong>Przycisk reset</strong></li>
-            <li><strong>Dioda LED sterowana z GPIO (D11)</strong></li>
-            <li><strong>Diody LED sygnalizujące transmisję z PC</strong></li>
-            <li><strong>Dioda LED sygnalizująca ładowanie akumulatora</strong></li>
-            <li><strong>Wbudowana przetwornica 3,3V o wydajności 2,5 A</strong></li>
-            <li><strong>3 otwory montażowe (średnia 3 mm)</strong></li>
-            <li><strong>Wymiary: 101,60 x 53,35 mm</strong></li>
-          </ul>
+						<li><strong>Standard WiFi 802.11 b/g/n (2,4 GHz)</strong></li>
+						<li><strong>Napięcie pracy wyprowadzeń: 3,3 V</strong></li>
+						<li><strong>Ilość pinów GPIO: 12</strong></li>
+						<li><strong>Interfejsy I2C, SPI, UART</strong></li>
+						<li><strong>8 multipleksowanych wejść analogowych (0 – 1 V)</strong></li>
+						<li><strong>Wbudowany moduł ładujący Li-ion / Li-pol (150 mA)</strong></li>
+						<li><strong>Wbudowany czytnik kart pamięci microSD / microSDHC</strong></li>
+						<li><strong>Wbudowany programator (oparty na chipie FTDI)</strong></li>
+						<li><strong>Gniazdo akumulatora JST 2,0 mm</strong></li>
+						<li><strong>Przycisk reset</strong></li>
+						<li><strong>Dioda LED sterowana z GPIO (D11)</strong></li>
+						<li><strong>Diody LED sygnalizujące transmisję z PC</strong></li>
+						<li><strong>Dioda LED sygnalizująca ładowanie akumulatora</strong></li>
+						<li><strong>Wbudowana przetwornica 3,3V o wydajności 2,5 A</strong></li>
+						<li><strong>3 otwory montażowe (średnia 3 mm)</strong></li>
+						<li><strong>Wymiary: 101,60 x 53,35 mm</strong></li>
+					</ul>
 
-          <h3>
-          <a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Creating pages manually</h3>
+					<h3>
+					<a id="creating-pages-manually" class="anchor" href="#creating-pages-manually" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Instrukcja Instalacji</h3>
+					<ol>
+						<li>Pobierz i zainstaluj środowisko Arduino IDE ze strony: www.arduino.cc</li>
+						<li>Uruchom Arduino IDE, wybierz Plik -> Preferencje</li>
+						<li>W miejscu Dodatkowe adresy URL dla menadżera płytek podaj:
+						<strong>https://raw.githubusercontent.com/ElektroPrzewodnik/LajFaj/gh-pages/package_LajFaj_index.json</strong></li>
+						<li>Wybierz Narzędzia -> Płytka -> Menadżer płytek</li>
+						<li>Zainstaluj moduł ElektroPrzewodnik ŁajFaj (prawdopodobnie na dole listy)</li>
+						<li>Od tej pory płytka ŁajFaj będzie już dostępna z Menu: Narzędzia -> Płytka</li>
+						<li>Przykładowy program znajdziesz w Plik -> Przykłady -> ElektroPrzewodnik ŁajFaj -> blink</li>
+					</ol>
 
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
+					<h3>
+					<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Dokumentacja i dodatkowe informacje</h3>
 
-<h3>
-<a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Authors and Contributors</h3>
+					<p>
+						Sczegółowy opis dostępnych funkcji można znaleźć pod adresem:<br />
+						<a href="https://github.com/esp8266/Arduino#documentation">https://github.com/esp8266/Arduino#documentation</a>
+						<br /><br >
+						Należy posługiwać się oznaczeniami pinów opisanymi na płytce tj. D0, D1, D2 itd.<br />
+						Przykładowa funkcja: <i>digitalWrite(D1, HIGH);</i></p>
+				</section>
 
-<p>You can @mention a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
+				<footer>
+					Lajfaj to projekt <a href="https://github.com/ElektroPrzewodnik">ElektroPrzewodnika</a><br>
+					Strona została wygenerowana przez <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
+				</footer>
 
-<h3>
-<a id="support-or-contact" class="anchor" href="#support-or-contact" aria-hidden="true"><span aria-hidden="true" class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out our <a href="https://help.github.com/pages">documentation</a> or <a href="https://github.com/contact">contact support</a> and we’ll help you sort it out.</p>
-        </section>
-
-        <footer>
-          Lajfaj is maintained by <a href="https://github.com/ElektroPrzewodnik">ElektroPrzewodnik</a><br>
-          This page was generated by <a href="https://pages.github.com">GitHub Pages</a>. Tactile theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.
-        </footer>
-
-        
-      </div>
-    </div>
-  </body>
+				
+			</div>
+		</div>
+	</body>
 </html>
