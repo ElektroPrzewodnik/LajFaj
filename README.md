@@ -1,6 +1,7 @@
 <img src="https://raw.githubusercontent.com/ElektroPrzewodnik/LajFaj/gh-pages/intro.png" alt="" />
 <br />
-
+Strona projektu: <a href="https://elektroprzewodnik.github.io/LajFaj/">https://elektroprzewodnik.github.io/LajFaj/</a>
+<br />
 # Specyfikacja
 
 <ul>
