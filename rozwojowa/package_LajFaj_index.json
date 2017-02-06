@@ -45,7 +45,7 @@
 					"url":"https://github.com/ElektroPrzewodnik/LajFaj/raw/gh-pages/LajFaj.zip",
 					"checksum":"SHA-256:1AEE410C9BCC7292D9FED1B21D2282B742D7F8C9B20CC3C0AD2CCA633A800903",
 					"help":{ "online":"http://github.com/ElektroPrzewodnik/LajFaj" },
-					"version":"16.12.14",
+					"version":"1.61214",
 					"architecture":"ElektroPrzewodnik_LajFaj",
 					"archiveFileName":"LajFaj.zip",
 					"boards":
