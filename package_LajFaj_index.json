@@ -16,6 +16,7 @@
 					"version":"16.12.14",
 					"architecture":"ElektroPrzewodnik_LajFaj",
 					"archiveFileName":"LajFaj.zip",
+					"size":"6017024",
 					"boards":
 						[
 							{"name": "ElektroPrzewodnik ŁajFaj"}
@@ -36,10 +37,8 @@
               "version": "0.1.2", 
               "name": "mkspiffs"
             }
-          ],
-         "size":"6017024"
-        }
-       
+          ]
+		}
        ],
        
         "tools": [
